@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Travel Agency Page</title>
+  <meta name="description" content="Discover the best places to visit and things to do in Canada">
+</head>
+
+<body>
+  <h1>Discover Canada</h1>
+  <p>Travel all over Canada and explore the beautiful landmarks and culture the provinces and territories have to offer!</p>
+  <h2>Packages</h2>
+  <p>We offer a variety of itineraries and travel plans, catered specifically to you.</p>
+
+  <ul>
+    <li>
+      <a href="https://www.freecodecamp.org/learn" target="blank">Group Travels</a>
+    </li>
+    <li> 
+      <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a>
+    </li>
+  </ul>
+
+  <h2>Top Itineraries</h2>
+
+  <ol>
+    <h4><li> Niagra Falls</li></h4>
+    <figure>
+     <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://live.staticflickr.com/4084/4980927493_38dc298025_b.jpg" alt="Niagara Falls | Niagara Falls from observation deck | Kevin Timothy | Flickr" height="300" width="auto"/>
+      </a>
+    <figcaption>The beautiful Niagara Falls in Ontario, Canada.</figcaption>
+    </figure>
+
+    <h4><li>Banff National Park</li></h4>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/View_from_above_on_Moraine_Lake%2C_Alberta%2C_Canada%2C_Banff_National_Park.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original" alt="image from above Moraine Lake, displaying mountains, coniferous trees, and the lake" height="300" width="auto"/>
+      </a>
+      <figcaption>A view of Moraine Lake at Banff National Park in Alberta, Canada.</figcaption>
+    </figure>
+
+    <h4><li>Pocket Planet Canada</h4></li>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://attractionsontario.ca/wp-content/uploads/2022/11/WC_Capilano_Bridge_Maurice_V2_3-4_Ratio-scaled.png" alt="Miniature moose crossing bridge at Pocket Planet Canada" height="300" width="auto">
+      </a>
+      <figcaption>Miniature Landmark in Pocket Planet Canada of a moose crossing a bridge.</figcaption>
+    </figure>
+  </ol>
+
+</body>
+</html>
